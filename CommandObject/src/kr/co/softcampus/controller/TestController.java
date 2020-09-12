@@ -11,7 +11,6 @@ public class TestController {
 	@PostMapping(value = "/test1")
 	// public String test1(@ModelAttribute DataBean bean) {
 	public String test1(DataBean bean) {
-		System.out.println("!");
 		// System.out.printf("data1 : %s\n",bean.getData1());
 		// System.out.printf("data2 : %s\n",bean.getData2());
 		return "test1";
