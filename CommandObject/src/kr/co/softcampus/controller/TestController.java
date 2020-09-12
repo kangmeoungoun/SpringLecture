@@ -15,6 +15,7 @@ public class TestController {
 		// System.out.printf("data2 : %s\n",bean.getData2());
 		System.out.println("!!!!");
 		System.out.println("hello dance world");
+		System.out.println("@@@");
 		return "test1";
 	}
 
