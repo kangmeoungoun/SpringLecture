@@ -16,6 +16,7 @@ public class TestController {
 		System.out.println("!!!!");
 		System.out.println("hello dance world");
 		System.out.println("@@@####");
+		System.out.println("1");
 		return "test1";
 	}
 
