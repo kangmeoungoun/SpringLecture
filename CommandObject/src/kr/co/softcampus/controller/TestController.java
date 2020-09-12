@@ -13,6 +13,7 @@ public class TestController {
 	public String test1(DataBean bean) {
 		// System.out.printf("data1 : %s\n",bean.getData1());
 		// System.out.printf("data2 : %s\n",bean.getData2());
+		System.out.println("!!!!");
 		return "test1";
 	}
 
