@@ -1,6 +1,9 @@
 package kr.co.softcampus.beans;
 
+import org.springframework.web.servlet.ThemeResolver;
+
 public class BoardInfoBean {
+	
 	
 	private int board_info_idx;
 	private String board_info_name;
